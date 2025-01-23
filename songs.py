@@ -18,4 +18,4 @@ class SongData:
         return key in self.data.keys()
     
     def write(self, file):
-        json.dump(self.data, file)
+        json.dump(self.data, file, indent=4)

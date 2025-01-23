@@ -1,1 +1,22 @@
-{"/home/crystal/dev/swarm_fm/lang_label/audio/welcome to the black parade - my chemical romance (05 07 23).mp3": ["english", true], "/home/crystal/dev/swarm_fm/lang_label/audio/mixed nuts - official hige dandism (13 09 23).mp3": ["japanese", false], "/home/crystal/dev/swarm_fm/lang_label/audio/Sohta - Ikanaide (12 06 24).mp3": ["japanese", false], "/home/crystal/dev/swarm_fm/lang_label/audio/The Cardigans - My Favourite Game (12 06 24).mp3": ["english", false], "/home/crystal/dev/swarm_fm/lang_label/audio/Buttercup - Jack Stauber (06 12 23).mp3": ["english", false]}
+{
+    "/home/crystal/dev/swarm_fm/lang_label/audio/welcome to the black parade - my chemical romance (05 07 23).mp3": [
+        "english",
+        true
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/mixed nuts - official hige dandism (13 09 23).mp3": [
+        "japanese",
+        false
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/Sohta - Ikanaide (12 06 24).mp3": [
+        "japanese",
+        false
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/The Cardigans - My Favourite Game (12 06 24).mp3": [
+        "english",
+        false
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/Buttercup - Jack Stauber (06 12 23).mp3": [
+        "english",
+        false
+    ]
+}
