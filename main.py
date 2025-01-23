@@ -6,6 +6,7 @@ from os import walk, path
 import vlc
 import songs
 import language_info
+import json
 
 
 INVALID_LANG_STRING = "lang_invalid"
@@ -32,19 +33,39 @@ def expand_input(input: str) -> tuple[str, bool]:
     
     return (INVALID_LANG_STRING, False)
 
+def save_data(song_data: songs.SongData):
+    with open(path.join(path.curdir, "data", "languages.json"), 'w') as f:
+        song_data.write(f)
+
 def main():
     audio_path = path.join(path.abspath(path.curdir), "audio")
-    song_data = songs.SongData()
+
+    song_data = None
+    try:
+        with open(path.join(path.curdir, "data", "languages.json"), 'r') as f:
+            song_data = songs.SongData(f)
+    except:
+        song_data = songs.SongData()        
+
+    
+    print("type s to save the data and exit, add - after the language if you know the song contains only that language")
     for name in enumerate_files(audio_path):
+        if song_data.contains(name):
+            continue
         print(name)
         player = vlc.MediaPlayer("file://"+path.join(audio_path, name))
         player.play()
         res = ()
         while True:
-            res = expand_input(input("Enter language (j: japanese, e:english, or 2 digit language code)").strip().lower())
+            t_in = input("Enter language (j: japanese, e:english, or 2 digit language code)").strip().lower()
+            if t_in == "s":
+                save_data(song_data)
+                exit()
+            res = expand_input(t_in)
             if res[0] != INVALID_LANG_STRING:
                 break
             print("Language entered is not supported by whisper")
+        song_data.set(name, res)
         player.stop()
 
 
