@@ -6,8 +6,6 @@ from os import walk, path
 import vlc
 import songs
 import language_info
-import json
-
 
 INVALID_LANG_STRING = "lang_invalid"
 
