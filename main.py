@@ -47,6 +47,7 @@ def main():
 
     
     print("type s to save the data and exit, add - after the language if you know the song contains only that language")
+    print("use numbers 0-9 to skip to positions in the song (can skip a long intro if you don't know the song)")
     for name in enumerate_files(audio_path):
         if song_data.contains(name):
             continue
@@ -59,6 +60,9 @@ def main():
             if t_in == "s":
                 save_data(song_data)
                 exit()
+            if len(t_in) == 1 and t_in.isdigit():
+                player.set_position(int(t_in)/10)
+                continue
             res = expand_input(t_in)
             if res[0] != INVALID_LANG_STRING:
                 break

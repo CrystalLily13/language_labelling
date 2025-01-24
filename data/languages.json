@@ -18,5 +18,49 @@
     "/home/crystal/dev/swarm_fm/lang_label/audio/Buttercup - Jack Stauber (06 12 23).mp3": [
         "english",
         false
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/snow halation - u_s (21 06 23).mp3": [
+        "japanese",
+        false
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/Bao - 52-Hearts (15 05 24).mp3": [
+        "english",
+        false
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/Let it snow! Let it Snow! Let it Snow!.mp3": [
+        "english",
+        true
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/Bea Miller - Playground (04 09 24).mp3": [
+        "english",
+        true
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/Natsushiro Takaaki - Near (17 04 24).mp3": [
+        "japanese",
+        true
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/my time - bo en (02 08 23).mp3": [
+        "japanese",
+        false
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/Iron Lotus - Mili (06 12 23).mp3": [
+        "english",
+        false
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/Glassy Sky - Yutaka Yamada (20 03 24).mp3": [
+        "english",
+        false
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/i am machine - three days grace (05 07 23).mp3": [
+        "english",
+        false
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/Andrew Gold - Spooky Scary Skeletons (30 10 24).mp3": [
+        "english",
+        true
+    ],
+    "/home/crystal/dev/swarm_fm/lang_label/audio/Winter Wonderland.mp3": [
+        "english",
+        true
     ]
 }
