@@ -1,334 +1,866 @@
 {
-    "/home/crystal/dev/swarm_fm/lang_label/audio/welcome to the black parade - my chemical romance (05 07 23).mp3": [
+    "welcome to the black parade - my chemical romance (05 07 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/mixed nuts - official hige dandism (13 09 23).mp3": [
+    "mixed nuts - official hige dandism (13 09 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Sohta - Ikanaide (12 06 24).mp3": [
+    "Sohta - Ikanaide (12 06 24).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/The Cardigans - My Favourite Game (12 06 24).mp3": [
+    "The Cardigans - My Favourite Game (12 06 24).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Buttercup - Jack Stauber (06 12 23).mp3": [
+    "Buttercup - Jack Stauber (06 12 23).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/snow halation - u_s (21 06 23).mp3": [
+    "snow halation - u_s (21 06 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Bao - 52-Hearts (15 05 24).mp3": [
+    "Bao - 52-Hearts (15 05 24).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Let it snow! Let it Snow! Let it Snow!.mp3": [
+    "Let it snow! Let it Snow! Let it Snow!.mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Bea Miller - Playground (04 09 24).mp3": [
+    "Bea Miller - Playground (04 09 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Natsushiro Takaaki - Near (17 04 24).mp3": [
+    "Natsushiro Takaaki - Near (17 04 24).mp3": [
         "japanese",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/my time - bo en (02 08 23).mp3": [
+    "my time - bo en (02 08 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Iron Lotus - Mili (06 12 23).mp3": [
+    "Iron Lotus - Mili (06 12 23).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Glassy Sky - Yutaka Yamada (20 03 24).mp3": [
+    "Glassy Sky - Yutaka Yamada (20 03 24).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/i am machine - three days grace (05 07 23).mp3": [
+    "i am machine - three days grace (05 07 23).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Andrew Gold - Spooky Scary Skeletons (30 10 24).mp3": [
+    "Andrew Gold - Spooky Scary Skeletons (30 10 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Winter Wonderland.mp3": [
+    "Winter Wonderland.mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Paramore - Brick By Boring Brick (10 07 24).mp3": [
+    "Paramore - Brick By Boring Brick (10 07 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Meltdown - iroha(sasaki) (06 12 23).mp3": [
+    "Meltdown - iroha(sasaki) (06 12 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Hoshimachi Suisei - GHOST (07 08 24).mp3": [
+    "Hoshimachi Suisei - GHOST (07 08 24).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Christina Perri - A Thousand Years (04 09 24).mp3": [
+    "Christina Perri - A Thousand Years (04 09 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/fluorites eye_s song - vivy (02 08 23).mp3": [
+    "fluorites eye_s song - vivy (02 08 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Mili - Camelia (10 07 24).mp3": [
+    "Mili - Camelia (10 07 24).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Firework - Katy Perry (25 10 23).mp3": [
+    "Firework - Katy Perry (25 10 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Lilium - Elfen Lied (20 03 24).mp3": [
+    "Lilium - Elfen Lied (20 03 24).mp3": [
         "latin",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Have Yourself a Merry Little Christmas.mp3": [
+    "Have Yourself a Merry Little Christmas.mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Frederic - Oddloop (15 05 24).mp3": [
+    "Frederic - Oddloop (15 05 24).mp3": [
         "japanese",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Snow Halation.mp3": [
+    "Snow Halation.mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Wonderwall - Oasis (08 11 23).mp3": [
+    "Wonderwall - Oasis (08 11 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Radiohead - Creep (06 10 24).mp3": [
+    "Radiohead - Creep (06 10 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/The Cranberries - Linger (27 11 24).mp3": [
+    "The Cranberries - Linger (27 11 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Smash Mouth - All Star (07 08 24).mp3": [
+    "Smash Mouth - All Star (07 08 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/careless whisper - george micheal (02 08 23).mp3": [
+    "careless whisper - george micheal (02 08 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Kikuo - Aishite Aishite Aishite (04 09 24).mp3": [
+    "Kikuo - Aishite Aishite Aishite (04 09 24).mp3": [
         "japanese",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/hole dwelling - kikuo (05 07 23).mp3": [
+    "hole dwelling - kikuo (05 07 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/SpOwOky OwOky Pumpkins - senzawa (31 10 23).mp3": [
+    "SpOwOky OwOky Pumpkins - senzawa (31 10 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/hello world - louie zong (02 08 23).mp3": [
+    "hello world - louie zong (02 08 23).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/september - earth, wind & fire (do u remember).mp3": [
+    "september - earth, wind & fire (do u remember).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Virtual Insanity - Jamiroquai (08 11 23).mp3": [
+    "Virtual Insanity - Jamiroquai (08 11 23).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Mad World - Gary Jules (08 11 23).mp3": [
+    "Mad World - Gary Jules (08 11 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/godish - pinocchio-p  (02 08 23).mp3": [
+    "godish - pinocchio-p  (02 08 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/bury the light - casey edwards (21 06 23).mp3": [
+    "bury the light - casey edwards (21 06 23).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/miku (neuro ver.) - anamanaguchi (13 09 23).mp3": [
+    "miku (neuro ver.) - anamanaguchi (13 09 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/compared child - tuyu (27 09 23).mp3": [
+    "compared child - tuyu (27 09 23).mp3": [
         "japanese",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/ReoNa - Nai Nai (30 10 24).mp3": [
+    "ReoNa - Nai Nai (30 10 24).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/LadyMonsters - Doll_s Fall (30 10 24).mp3": [
+    "LadyMonsters - Doll_s Fall (30 10 24).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/styx helix - myth & roid (13 09 23).mp3": [
+    "styx helix - myth & roid (13 09 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Eve - LEO (12 06 24).mp3": [
+    "Eve - LEO (12 06 24).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/somebody i used to know - gotye (05 07 23).mp3": [
+    "somebody i used to know - gotye (05 07 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Stuck in the Sound - Let_s Go (27 11 24).mp3": [
+    "Stuck in the Sound - Let_s Go (27 11 24).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/scatman - scatman john (13 09 23).mp3": [
+    "scatman - scatman john (13 09 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/MAGIC! - Rude (07 08 24).mp3": [
+    "MAGIC! - Rude (07 08 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Midge Ure - The Man Who Sold the World (04 09 24).mp3": [
+    "Midge Ure - The Man Who Sold the World (04 09 24).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/devil town - cavetown (13 09 23).mp3": [
+    "devil town - cavetown (13 09 23).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Dan Salvato - Your Reality (06 10 24).mp3": [
+    "Dan Salvato - Your Reality (06 10 24).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Keiichi Okabe - Weight of the World (17 04 24).mp3": [
+    "Keiichi Okabe - Weight of the World (17 04 24).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/KARMANATIONS - Akatsuki Records (25 10 23).mp3": [
+    "KARMANATIONS - Akatsuki Records (25 10 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Kanaria - QUEEN (04 09 24).mp3": [
+    "Kanaria - QUEEN (04 09 24).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Harumaki Gohan - Zero Talking (07 08 24).mp3": [
+    "Harumaki Gohan - Zero Talking (07 08 24).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Hall & Oates - Maneater (30 10 24).mp3": [
+    "Hall & Oates - Maneater (30 10 24).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/System of a Down - Lonely Day (15 05 24).mp3": [
+    "System of a Down - Lonely Day (15 05 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Christina Perri - Jar of Hearts (27 11 24).mp3": [
+    "Christina Perri - Jar of Hearts (27 11 24).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/promise - kohmi hirose (27 09 23).mp3": [
+    "promise - kohmi hirose (27 09 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/vampire - deco 27 (27 09 23).mp3": [
+    "vampire - deco 27 (27 09 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Avril Lavigne - Complicated (12 06 24).mp3": [
+    "Avril Lavigne - Complicated (12 06 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/hated by life itself - Kanzaki Iori (25 10 23).mp3": [
+    "hated by life itself - Kanzaki Iori (25 10 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/everything goes on - porter robinson (02 08 23).mp3": [
+    "everything goes on - porter robinson (02 08 23).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Rockin_ Around the Christmas Tree.mp3": [
+    "Rockin_ Around the Christmas Tree.mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/dreamin chuchu  - emon(tes.) (21 06 23).mp3": [
+    "dreamin chuchu  - emon(tes.) (21 06 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/kz-livetune - Tell Your World (06 10 24).mp3": [
+    "kz-livetune - Tell Your World (06 10 24).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Bee Gees - Stayin_ Alive (06 10 24).mp3": [
+    "Bee Gees - Stayin_ Alive (06 10 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/enemy - imagine dragons (02 08 23).mp3": [
+    "enemy - imagine dragons (02 08 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/The Neighbourhood - Sweater Weather (15 05 24).mp3": [
+    "The Neighbourhood - Sweater Weather (15 05 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Brain Power - NOMA (08 11 23).mp3": [
+    "Brain Power - NOMA (08 11 23).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Want You Gone - Jonathan Coulton (20 03 24).mp3": [
+    "Want You Gone - Jonathan Coulton (20 03 24).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/radioactive - imagine dragons (21 06 23).mp3": [
+    "radioactive - imagine dragons (21 06 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Holding Out For A Hero - Jennifer Saunders (25 10 23).mp3": [
+    "Holding Out For A Hero - Jennifer Saunders (25 10 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/ilem - Pinky Swear (06 10 24).mp3": [
+    "ilem - Pinky Swear (06 10 24).mp3": [
         "chinese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Kawaikute Gomen - HoneyWorks (06 12 23).mp3": [
+    "Kawaikute Gomen - HoneyWorks (06 12 23).mp3": [
         "japanese",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/after dark - mr. kitty (21 06 23).mp3": [
+    "after dark - mr. kitty (21 06 23).mp3": [
         "english",
         false
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/echo - crusher (16 08 23).mp3": [
+    "echo - crusher (16 08 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/die for you - grabbitz (27 09 23).mp3": [
+    "die for you - grabbitz (27 09 23).mp3": [
         "english",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/racing into the night - yoasobi (16 08 23).mp3": [
+    "racing into the night - yoasobi (16 08 23).mp3": [
         "japanese",
         true
     ],
-    "/home/crystal/dev/swarm_fm/lang_label/audio/Pretender - Offical HIGE DANdism (20 03 24).mp3": [
+    "Pretender - Offical HIGE DANdism (20 03 24).mp3": [
         "japanese",
         false
+    ],
+    "Poka Poka Planet.mp3": [
+        "japanese",
+        false
+    ],
+    "string theocracy - mili (13 09 23).mp3": [
+        "english",
+        false
+    ],
+    "Guitar, Loneliness and Blue Planet - kessoku band (25 10 23).mp3": [
+        "japanese",
+        false
+    ],
+    "Nanatsukaze - End of the Summer (06 10 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Pharrell Williams - Happy (04 09 24).mp3": [
+        "english",
+        true
+    ],
+    "Falling In Reverse - Voices In My Head (12 06 24).mp3": [
+        "english",
+        false
+    ],
+    "Journey - Don_t Stop Believin_ (12 06 24).mp3": [
+        "english",
+        false
+    ],
+    "Adele - Rolling In The Deep (10 07 24).mp3": [
+        "english",
+        true
+    ],
+    "Merry Christmas Everyone.mp3": [
+        "english",
+        false
+    ],
+    "Clairo - Pretty Girl (04 09 24).mp3": [
+        "english",
+        false
+    ],
+    "Iyowa - Kyu-Kurarin (17 04 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Alan Walker - The Spectre (06 10 24).mp3": [
+        "english",
+        false
+    ],
+    "Lower One_s Eyes - nuyuri (06 12 23).mp3": [
+        "japanese",
+        false
+    ],
+    "AURORA - Runaway (15 05 24).mp3": [
+        "english",
+        false
+    ],
+    "rolling girl - wowaka (27 09 23).mp3": [
+        "japanese",
+        false
+    ],
+    "pokemon theme song - john siegler (16 08 23).mp3": [
+        "english",
+        true
+    ],
+    "oddloop - frederic (02 08 23).mp3": [
+        "japanese",
+        true
+    ],
+    "Kimi no Shiranai Monogatari - supercell (08 11 23).mp3": [
+        "japanese",
+        false
+    ],
+    "bad guy - billie eilish (27 09 23).mp3": [
+        "english",
+        true
+    ],
+    "Hozier - Take Me To Church (15 05 24).mp3": [
+        "english",
+        true
+    ],
+    "high hopes - panic! at the disco (16 08 23).mp3": [
+        "english",
+        true
+    ],
+    "ocean man - ween (21 06 23).mp3": [
+        "english",
+        false
+    ],
+    "airhead - picon (02 08 23).mp3": [
+        "japanese",
+        false
+    ],
+    "39 music - mikito-p (16 08 23).mp3": [
+        "japanese",
+        false
+    ],
+    "supercell - World is Mine (17 04 24).mp3": [
+        "japanese",
+        false
+    ],
+    "The Living Tombstone - Five Nights At Freddy_s (30 10 24).mp3": [
+        "english",
+        false
+    ],
+    "My Heart Will Go On - Celine Dion (20 03 24).mp3": [
+        "english",
+        true
+    ],
+    "eye of the tiger - survivor (21 06 23).mp3": [
+        "english",
+        true
+    ],
+    "your reality - dan salvato (05 07 23).mp3": [
+        "english",
+        false
+    ],
+    "revenge - captainsparklez (05 07 23).mp3": [
+        "english",
+        true
+    ],
+    "Azari - Wink (07 08 24).mp3": [
+        "english",
+        false
+    ],
+    "take on me - a-ha (16 08 23).mp3": [
+        "english",
+        true
+    ],
+    "FEX - Subways of Your Mind (27 11 24).mp3": [
+        "english",
+        false
+    ],
+    "lagtrain - inabakumori (02 08 23).mp3": [
+        "japanese",
+        true
+    ],
+    "bad apple - zun (21 06 23).mp3": [
+        "japanese",
+        false
+    ],
+    "Goodbye Sengen - Chinozo (25 10 23).mp3": [
+        "japanese",
+        false
+    ],
+    "\u5473\u7d20 - Retrospective Poems on the Planet (06 10 24).mp3": [
+        "chinese",
+        false
+    ],
+    "Sting - What Could Have Been (27 11 24).mp3": [
+        "english",
+        true
+    ],
+    "Frank Sinatra - My Way (04 09 24).mp3": [
+        "english",
+        false
+    ],
+    "VIVY - Sing My Pleasure (27 11 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Crusher - Wicked (30 10 24).mp3": [
+        "english",
+        false
+    ],
+    "Out Of Touch - Hall & Oates (08 11 23).mp3": [
+        "english",
+        false
+    ],
+    "so what - p!nk (16 08 23).mp3": [
+        "english",
+        true
+    ],
+    "sasakure.UK - TONDEMO-WONDERZ (15 05 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Porter Robinson - Everything Goes On (17 04 24).mp3": [
+        "english",
+        false
+    ],
+    "take me to church - hozier (02 08 23).mp3": [
+        "english",
+        true
+    ],
+    "a thousand years - christina perri (02 08 23).mp3": [
+        "english",
+        false
+    ],
+    "Nekomata Okayu - MOGU MOGU YUMMY! (17 04 24).mp3": [
+        "japanese",
+        false
+    ],
+    "I_m Glad You_re Evil Too - Pinocchio-P (20 03 24).mp3": [
+        "japanese",
+        true
+    ],
+    "Fly Me To The Moon - Frank Sinatra (25 10 23).mp3": [
+        "english",
+        false
+    ],
+    "chandelier - sia (05 07 23).mp3": [
+        "english",
+        true
+    ],
+    "ShinRa-Bansho - Unconscious Requiem (30 10 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Official HIGE DANdism - Mixed Nuts (07 08 24).mp3": [
+        "japanese",
+        false
+    ],
+    "world.execute(me) - mili (21 06 23).mp3": [
+        "english",
+        true
+    ],
+    "little dark age - mgmt (02 08 23).mp3": [
+        "english",
+        true
+    ],
+    "wellerman - nathan evans (26 07 23).mp3": [
+        "english",
+        true
+    ],
+    "Dead or Alive - You Spin Me Round (06 10 24).mp3": [
+        "english",
+        true
+    ],
+    "Gloria Gaynor - I Will Survive (27 11 24).mp3": [
+        "english",
+        true
+    ],
+    "Queen - Don_t Stop Me Now (10 07 24).mp3": [
+        "english",
+        true
+    ],
+    "The Cab - Angel With A Shotgun (04 09 24).mp3": [
+        "english",
+        true
+    ],
+    "Lost Umbrella - inabakumori (08 11 23).mp3": [
+        "japanese",
+        true
+    ],
+    "Super Nuko World - Mafumafu (06 12 23).mp3": [
+        "japanese",
+        false
+    ],
+    "Bon Jovi - Livin_ on a Prayer (27 11 24).mp3": [
+        "english",
+        true
+    ],
+    "Mili - sustain++_ (17 04 24).mp3": [
+        "english",
+        false
+    ],
+    "Harumaki Gohan - Melty Land Nightmare (12 06 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Europe - The Final Countdown (10 07 24).mp3": [
+        "english",
+        false
+    ],
+    "Happy Halloween - Junky (31 10 23).mp3": [
+        "japanese",
+        false
+    ],
+    "fukkireta - lamaze-p (21 06 23).mp3": [
+        "japanese",
+        false
+    ],
+    "Rie Takahashi - Stay Alive (27 11 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Kikuo - Dance of the Corpses (27 11 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Shut Up and Dance - WALK THE MOON (08 11 23).mp3": [
+        "english",
+        true
+    ],
+    "world is mine - supercell (21 06 23).mp3": [
+        "japanese",
+        false
+    ],
+    "tiny little adiantum - shibayan records (27 09 23).mp3": [
+        "japanese",
+        false
+    ],
+    "Ellie Goulding - Lights (07 08 24).mp3": [
+        "english",
+        false
+    ],
+    "Passenger - Let Her Go (27 11 24).mp3": [
+        "english",
+        false
+    ],
+    "Utsu-P - Death of the Law (15 05 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Bon Jovi - It_s My Life (07 08 24).mp3": [
+        "english",
+        false
+    ],
+    "Eri Sasaki - Gate of Steiner (07 08 24).mp3": [
+        "english",
+        false
+    ],
+    "Eye of the Tiger - Survivor (20 03 24).mp3": [
+        "english",
+        true
+    ],
+    "SIAMES - My Way (17 04 24).mp3": [
+        "english",
+        false
+    ],
+    "senbonzakura - kurousa-p (27 09 23).mp3": [
+        "japanese",
+        true
+    ],
+    "sasakure.UK - Hello Planet (10 07 24).mp3": [
+        "japanese",
+        false
+    ],
+    "relay outer - inabakumori (16 08 23).mp3": [
+        "japanese",
+        false
+    ],
+    "teo - omoi (21 06 23).mp3": [
+        "japanese",
+        true
+    ],
+    "hero - yoasobi (05 07 23).mp3": [
+        "japanese",
+        false
+    ],
+    "titanium - david guetta (16 08 23).mp3": [
+        "english",
+        true
+    ],
+    "It_s Beginning to Look a Lot Like Christmas - Michael Bubl\u00e9 (06 12 23).mp3": [
+        "english",
+        true
+    ],
+    "Michael Jackson - Thriller (30 10 24).mp3": [
+        "english",
+        true
+    ],
+    "YOASOBI - Monster (15 05 24).mp3": [
+        "japanese",
+        true
+    ],
+    "Dramaturgy - eve (25 10 23).mp3": [
+        "japanese",
+        false
+    ],
+    "Evanescence - My Immortal (27 11 24).mp3": [
+        "english",
+        true
+    ],
+    "Nyarons - Haruka Kanata (10 07 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Kikuo - Voices of Svaahaa (15 05 24).mp3": [
+        "japanese",
+        false
+    ],
+    "OneRepublic - Counting Stars (27 11 24).mp3": [
+        "english",
+        true
+    ],
+    "Camelia - Mili (08 11 23).mp3": [
+        "english",
+        false
+    ],
+    "Yoko Yakahashi - A Cruel Angel_s Thesis (10 07 24).mp3": [
+        "japanese",
+        false
+    ],
+    "shelter - porter robinson (27 09 23).mp3": [
+        "english",
+        false
+    ],
+    "Nuclear - Mike Oldfield (20 03 24).mp3": [
+        "english",
+        false
+    ],
+    "the phoenix - fall out boy (21 06 23).mp3": [
+        "english",
+        true
+    ],
+    "i want it that way - backstreet boys (16 08 23).mp3": [
+        "english",
+        true
+    ],
+    "a turtles heart - mili (27 09 23).mp3": [
+        "english",
+        false
+    ],
+    "Kate Bush - Running Up That Hill (30 10 24).mp3": [
+        "english",
+        false
+    ],
+    "ai kotoba - deco 27 (13 09 23).mp3": [
+        "japanese",
+        false
+    ],
+    "The Spectre - Alan Walker (25 10 23).mp3": [
+        "english",
+        false
+    ],
+    "As the World Caves In - Matt Maltese (25 10 23).mp3": [
+        "english",
+        true
+    ],
+    "Mr Brightside - The Killers (08 11 23).mp3": [
+        "english",
+        true
+    ],
+    "Initial D - Deja Vu (12 06 24).mp3": [
+        "english",
+        true
+    ],
+    "slash slash slashslash slash slash - x0o0x (08 11 23).mp3": [
+        "japanese",
+        false
+    ],
+    "discord - the living tombstone (21 06 23).mp3": [
+        "english",
+        false
+    ],
+    "Mili - Poems of a Machine (06 10 24).mp3": [
+        "english",
+        false
+    ],
+    "happy - pharell williams (13 09 23).mp3": [
+        "english",
+        true
+    ],
+    "Digital Girl - KIRA (20 03 24).mp3": [
+        "english",
+        false
+    ],
+    "HYBS - Tip Toe (04 09 24).mp3": [
+        "english",
+        false
+    ],
+    "College & Electric Youth - A Real Hero (15 05 24).mp3": [
+        "english",
+        false
+    ],
+    "Getter Jaani - Rockefeller Street (07 08 24).mp3": [
+        "english",
+        false
+    ],
+    "common world domination - pinocchio-p (16 08 23).mp3": [
+        "japanese",
+        false
+    ],
+    "smooth criminal - michael jackson (16 08 23).mp3": [
+        "english",
+        true
+    ],
+    "Junky - Happy Halloween (30 10 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Love the Subhuman Self - Daisuke Ishiwatari (25 10 23).mp3": [
+        "english",
+        false
+    ],
+    "deja vu - initial d (13 09 23).mp3": [
+        "english",
+        false
+    ],
+    "mikitoP - Shoujo Rei (15 05 24).mp3": [
+        "japanese",
+        false
+    ],
+    "ClariS - Connect (04 09 24).mp3": [
+        "japanese",
+        false
+    ],
+    "Kavinsky - Nightcall (07 08 24).mp3": [
+        "english",
+        false
+    ],
+    "Chris Isaak - Wicked Game (10 07 24).mp3": [
+        "english",
+        false
+    ],
+    "numb - linkin park (05 07 23).mp3": [
+        "english",
+        true
+    ],
+    "Two-Faced Lovers wowaka (08 11 23).mp3": [
+        "japanese",
+        false
+    ],
+    "all star - smash mouth (21 06 23).mp3": [
+        "english",
+        true
+    ],
+    "hello planet - sasakure.uk (02 08 23).mp3": [
+        "japanese",
+        false
+    ],
+    "duvet - boa (05 07 23).mp3": [
+        "english",
+        false
+    ],
+    "ikanaide - sohta (02 08 23).mp3": [
+        "japanese",
+        false
+    ],
+    "Lone Digger - Caravan Palace (08 11 23).mp3": [
+        "english",
+        true
+    ],
+    "Dido - Thank You (07 08 24).mp3": [
+        "english",
+        false
+    ],
+    "skyfall - adele (27 09 23).mp3": [
+        "english",
+        true
     ]
 }

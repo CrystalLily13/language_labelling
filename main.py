@@ -12,7 +12,7 @@ INVALID_LANG_STRING = "lang_invalid"
 def enumerate_files(audio_path: str):
     for (dirpath, _dirnames, filenames) in walk(audio_path):
         for name in filenames:
-            yield path.join(dirpath, name)
+            yield path.relpath(path.join(dirpath, name), audio_path)
 
 
 def expand_input(input: str) -> tuple[str, bool]:
@@ -45,7 +45,7 @@ def main():
         with open(path.join(path.curdir, "data", "languages.json"), 'r') as f:
             song_data = songs.SongData(f)
     except:
-        song_data = songs.SongData()        
+        song_data = songs.SongData()
 
     
     print("type s to save the data and exit, add - after the language if you know the song contains only that language")

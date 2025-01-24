@@ -17,5 +17,8 @@ class SongData:
     def contains(self, key) -> bool:
         return key in self.data.keys()
     
+    def keys(self):
+        return self.data.keys()
+    
     def write(self, file):
         json.dump(self.data, file, indent=4)
