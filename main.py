@@ -16,6 +16,8 @@ def enumerate_files(audio_path: str):
 
 
 def expand_input(input: str) -> tuple[str, bool]:
+    if len(input) == 0:
+        return (INVALID_LANG_STRING, False)
     only_one = False
     if input[-1] == '-':
         input = input[:-1]
